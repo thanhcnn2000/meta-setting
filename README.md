@@ -1,2 +1,3 @@
 # meta-setting
-- Store meta config with some special biz rules Ex: config key by months, location
+- Store meta config with some special biz rules 
+- Example: config key by months, location
